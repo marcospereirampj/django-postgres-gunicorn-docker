@@ -2,7 +2,7 @@
 
 ## Introduction
 
-(Django2 Getting Started)[https://github.com/marcospereirampj/django2-getting-started] is used as an example in
+[Django2 Getting Started](https://github.com/marcospereirampj/django2-getting-started) is used as an example in
 this Dockerfile. 
 
 ## Run Docker
